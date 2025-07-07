@@ -1,2 +1,3 @@
-# gold-price-predictor
-an ml base project for predicting gold price 
+# kgfyufofhog
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Shulamite-Olive/kgfyufofhog)
